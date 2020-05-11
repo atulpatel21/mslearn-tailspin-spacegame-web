@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SPGlobalAHM/Space%20Game-Web/_apis/build/status/atulpatel21.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/SPGlobalAHM/Space%20Game-Web/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
